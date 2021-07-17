@@ -1,0 +1,7 @@
+0 ???
+1 Oe_female
+2 Oe_male
+3 Op_female
+4 Op_male
+5 Zp_female
+6 Zp_male
